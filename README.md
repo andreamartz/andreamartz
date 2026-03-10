@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     Full stack engineer
   </h2>
   <p>
-    Frontend-focused full stack engineer specializing in React and Next.js, currently working in TypeScript and Redux Toolkit. Committed to accessibility and inclusive user experiences. I build scalable frontend applications with predictable state and reliable automated tests using Jest and React Testing Library.
+    Frontend-focused full stack engineer specializing in React, Node/Express and Next.js, currently working in TypeScript and Context API. Committed to accessibility and inclusive user experiences. I build scalable frontend applications with predictable state and reliable automated tests using Jest and React Testing Library.
   </p>
   <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="150" alt="" />
   <!-- Social Media -->
