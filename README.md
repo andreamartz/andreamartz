@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <h2>
     Full stack engineer
   </h2>
+</div>
+<div id="about">
   <p>
     Frontend-focused full stack engineer specializing in React, NextJS, and Node/Express with current interest in TypeScript. Additional experience in Python/Flask and unit testing (Python unittest, Jest, React Testing Library). Committed to accessibility and inclusive user experiences. 
   </p>
@@ -40,6 +42,8 @@ Here are some ideas to get you started:
     <li><b>Other: </b>GitHub Copilot, Jira, Agile, SAFe, Human-Centered Design, Pair-Programming, VS Code, IntelliJ</li>
   </ul>
   <p></p>
+</div>
+<div>
   <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="150" alt="" />
   <!-- Social Media -->
   <div id="badges">
