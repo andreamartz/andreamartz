@@ -26,8 +26,20 @@ Here are some ideas to get you started:
     Full stack engineer
   </h2>
   <p>
-    Frontend-focused full stack engineer specializing in React, Node/Express and Next.js, currently working in TypeScript and Context API. Committed to accessibility and inclusive user experiences. I build scalable frontend applications with predictable state and reliable automated tests using Jest and React Testing Library.
+    Frontend-focused full stack engineer specializing in React, NextJS, and Node/Express with current interest in TypeScript. Additional experience in Python/Flask and unit testing (Python unittest, Jest, React Testing Library). Committed to accessibility and inclusive user experiences. 
   </p>
+  <p>Highlights of my experience:</p>
+  <p>Technical</p>
+  <ul>
+    <li><b>Frontend: </b>NextJS, React, TypeScript, jQuery, Material UI, Bootstrap</li>
+    <li><b>Backend: </b>NextJS, Node/Express, Python/Flask, custom-built RESTful APIs</li>
+    <li><b>Testing: </b>Jest, React Testing Library, Python unittest (unit tests and integration tests), Jasmine</li>
+    <li><b>Database and related: </b> PostgreSQL, SQLAlchemy</li>
+    <li><b>CI/CD: </b>JFrog, Jenkins</li>
+    <li><b>AWS Certified Cloud Practitioner (CCP)</b></li>
+    <li><b>Other: </b>GitHub Copilot, Jira, Agile, SAFe, Human-Centered Design, Pair-Programming, VS Code, IntelliJ</li>
+  </ul>
+  <p></p>
   <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="150" alt="" />
   <!-- Social Media -->
   <div id="badges">
